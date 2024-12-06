@@ -1,0 +1,70 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/MadimDell/Desktop/Ac/lab3
+vcmp2b
+Z1 !s110 1699197224
+!i10b 1
+!s100 Hc<94mXdL=PQJKd:87UKA1
+I=Za_a1?kOYhWNJS2noSnJ1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1699197221
+Z4 8cmp2b.v
+Z5 Fcmp2b.v
+L0 1
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1699197224.000000
+Z8 !s107 cmp2b.v|
+Z9 !s90 -reportprogress|300|cmp2b.v|
+!i113 1
+Z10 tCvgOpt 0
+vcmp4b
+R1
+!i10b 1
+!s100 XMNaG?R:a<^8o@AQL9>]C2
+IUXNi<l?g7K7^2IWBUeVz`0
+R2
+R0
+R3
+R4
+R5
+L0 11
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vcmp4b_tb
+R1
+!i10b 1
+!s100 =5:<4O37?CMfmHS1QKCSJ2
+I_U>4PU=no^:j>^L03H1XF3
+R2
+R0
+R3
+R4
+R5
+L0 36
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10

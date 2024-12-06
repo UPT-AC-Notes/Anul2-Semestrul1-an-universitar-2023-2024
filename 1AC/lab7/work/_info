@@ -1,0 +1,91 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/MadimDell/Desktop/Ac/lab7
+vD_FF
+Z1 !s110 1702215475
+!i10b 1
+!s100 2EZ96XA8`e29lg=cE2:XH1
+InE;9C@HP879^T6W=Y41=D1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1702215469
+Z4 8automat.v
+Z5 Fautomat.v
+L0 1
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1702215474.000000
+Z8 !s107 automat.v|
+Z9 !s90 -reportprogress|300|automat.v|
+!i113 1
+Z10 tCvgOpt 0
+n@d_@f@f
+vripple_counter_4bit
+R1
+!i10b 1
+!s100 [UK`Nj:XnL9HWR^_=mTe]3
+IIU;H6a`Gb2O0ajc4TQ4]^0
+R2
+R0
+R3
+R4
+R5
+L0 14
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vripple_counter_4bit_tb
+R1
+!i10b 1
+!s100 5^8@O8D0H]Imail<K;EFm3
+I3Lmmh<Ad?QnHf5=E2l<:_3
+R2
+R0
+R3
+R4
+R5
+L0 38
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vsipo_shift_register_design
+R1
+!i10b 1
+!s100 _n5ncKVFF`DFg6=YYXD@S3
+I<znmX[1MglKe3DkTcmAX22
+R2
+R0
+R3
+R4
+R5
+L0 28
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10

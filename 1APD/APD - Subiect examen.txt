@@ -1,0 +1,8 @@
+Sa se determine frecventa minima de esantionare, apoi sa se proiecteze , sa se analizeze comportarea in frecventa  (minim 5 puncte valorice cu 2 zecimale
+pe graficul magnitudinii functiei spectrale) si sa se implementeze (chema bloc) un filtru numeric ce opereaza cu semnale cu un spectru de frecvente cuprins 
+intre 0 -234 Hz . 
+In plus filtrul are urmatoarele caracterisitic (cumulativ):
+a) Banda de trecere pt frecventele joase pana la 78 Hz ( utilizand modului rp1 = 0.7 ) pentru polul corespunzator.
+b) Rejectie maxima pentru frecventele 156 Hz si 234 Hz.
+c) Sistemul este unul normal.
+APD
