@@ -1,5 +1,5 @@
 # CTI-AN-2
-link semestreul 2
+link semestrul 2
 https://github.com/UPT-AC-Notes/Anul2-Semestrul2-an-universitar-2023-2024
 
 
